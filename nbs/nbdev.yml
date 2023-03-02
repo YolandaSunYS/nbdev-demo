@@ -3,7 +3,7 @@ project:
 
 website:
   title: "nbdev-demo"
-  site-url: "https://YolandaSunYS.github.io/nbdev-demo"
+  site-url: "https://YolandaSunYS.github.io/nbdev_demo"
   description: "demo"
   repo-branch: dev
-  repo-url: "https://github.com/YolandaSunYS/nbdev-demo"
+  repo-url: "https://github.com/YolandaSunYS/nbdev_demo"
